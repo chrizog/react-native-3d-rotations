@@ -13,16 +13,12 @@ https://chrizog.com/react-native-rotation-anchor-point
     <img src="demos/react-native-rotation-cube.gif" />
 </div>
 
----
-
 
 ## Example Animated 2D Anchor Point
 
 <div style="text-align: center;">
     <img src="demos/react-native-rotation-anchor-point.gif" />
 </div>
-
----
 
 
 ## Example Animated 3D Anchor Point (also in z-direction)
